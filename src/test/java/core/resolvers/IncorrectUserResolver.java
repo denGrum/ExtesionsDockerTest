@@ -1,6 +1,5 @@
 package core.resolvers;
 
-import core.annotations.CorrectUser;
 import core.annotations.IncorrectUser;
 import models.User;
 import org.junit.jupiter.api.extension.ExtensionContext;
